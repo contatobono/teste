@@ -1,2 +1,3 @@
-texto criado no git hub diretamente
+﻿texto criado no git hub diretamente
 Alteração do texto do git
+versao master
